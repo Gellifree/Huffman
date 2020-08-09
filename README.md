@@ -1,1 +1,1 @@
-Huffman
+Huffman algorithm in C#
